@@ -33,9 +33,21 @@ Desarrollar y validar un **MVP** que permita:
 ---
 
 ## Metodología y Tecnologías  
-- **Metodología**: Ágil / Scrum con sprints quincenales.  
+- **Metodología**: Ágil / Scrum con sprints.  
 - **Enfoque**: QA con pruebas unitarias y UX iterativo.  
-- **Tecnologías**: (por completar según stack usado).  
+- **Tecnologías**:
+
+React Native (Expo)
+
+C# .NET 8
+
+Visual Studio
+
+SQL Server
+
+REST API (HTTPS, JSON)
+
+Git / GitHub.  
 
 ---
 
