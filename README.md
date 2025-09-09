@@ -1,2 +1,43 @@
-# Proyecto-de-titulo
-capstone 2025
+# ServiMapp  
+
+**ServiMapp** es un marketplace chileno que conecta personas y pymes con prestadores de oficios (gasfitería, electricidad, jardinería, mecánica, entre otros) de manera **rápida, segura y trazable**.  
+
+---
+
+## Contexto  
+Actualmente muchos servicios se contratan de forma informal (RRSS/WhatsApp), lo que genera:  
+- Baja confianza y trazabilidad.  
+- Dificultad para comparar precio/calidad.  
+- Riesgo de estafas y falta de reputación acumulable.  
+
+---
+
+## Objetivo  
+Desarrollar y validar un **MVP** que permita:  
+- Publicar solicitudes con fotos y ubicación.  
+- Recibir ofertas privadas (licitación ciega).  
+- Agendar y reprogramar servicios.  
+- Compartir comprobantes y calificar con evidencia.  
+
+---
+
+## Funcionalidades Principales  
+- **Autenticación y roles**: clientes y prestadores.  
+- **Geo-match**: búsqueda por cercanía y categorías.  
+- **Ofertas privadas**: licitación ciega con re-oferta.  
+- **Agenda**: confirmación bilateral y reprogramación.  
+- **Chat in-app**: mensajes, fotos y comprobantes.  
+- **Reputación**: calificaciones y reseñas con fotos.  
+- **Notificaciones**: push y correo en eventos clave.  
+
+---
+
+## Metodología y Tecnologías  
+- **Metodología**: Ágil / Scrum con sprints quincenales.  
+- **Enfoque**: QA con pruebas unitarias y UX iterativo.  
+- **Tecnologías**: (por completar según stack usado).  
+
+---
+
+## Conclusión  
+**ServiMapp** ofrece una alternativa innovadora para digitalizar la contratación de servicios, aumentando la confianza, reduciendo tiempos y mejorando la experiencia tanto de clientes como de prestadores.  
